@@ -8,8 +8,11 @@
         <title>{{config('app.name','Labs')}}</title>
 
         <!-- Fonts -->
+  <!-- Styles -->
+    <link rel="stylesheet" href="{{mix('/css/app.css')}}">
 
     </head>
+    @include('inc.navbar')
     <body>
 @yield('content')
     </body>
