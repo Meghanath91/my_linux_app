@@ -15,9 +15,7 @@
           <li class="nav-item active">
             <a class="nav-link" href="/about">about <span class="sr-only">(current)</span></a>
           </li>
-          <li class="nav-item active">
-            <a class="nav-link" href="/about">extra <span class="sr-only">(current)</span></a>
-          </li>
+
 
         {{-- <li class="nav-item dropdown">
           <a class="nav-link dropdown-toggle" href="#" id="dropdown01" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Dropdown</a>
